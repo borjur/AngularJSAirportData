@@ -1,7 +1,3 @@
-# Up and Running with AngularJS
-
-
-## Installation
 
 To get this server up and running, do the following:
 
